@@ -2,10 +2,10 @@ package algorithms;
 
 import java.util.Arrays;
 
-public class BinarySearch {
+public class BinarySearch implements SearchPattern {
+    // array must be sorted before calling this method!
+    @Override
     public int search(int[] array, int target) {
-        // array must be sorted before calling this method!
-
         int size = array.length;
         int left = 0;
         int right = size - 1;
