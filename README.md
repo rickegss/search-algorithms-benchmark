@@ -54,8 +54,8 @@ src/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/search-algorithm-comparator.git
-cd search-algorithm-comparator
+git clone https://github.com/rickegss/search-algorithms-benchmark.git
+cd search-algorithms-benchmark
 ```
 
 2. **Compile the project:**
@@ -140,9 +140,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Rickegss**
+- GitHub: [@rickegss](https://github.com/rickegss)
+- LinkedIn: [Ricardo Gomes da Silva](https://www.linkedin.com/in/ricardo-gomes-dev)
 
 ---
 
@@ -189,8 +189,8 @@ src/
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seuusuario/search-algorithm-comparator.git
-cd search-algorithm-comparator
+git clone https://github.com/rickegss/search-algorithms-benchmark.git
+cd search-algorithms-benchmark
 ```
 
 2. **Compile o projeto:**
@@ -275,9 +275,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ### 👤 Autor
 
-**Seu Nome**
-- GitHub: [@seuusuario](https://github.com/seuusuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seuperfil)
+**Rickegss**
+- GitHub: [@rickegss](https://github.com/rickegss)
+- LinkedIn: [Ricardo Gomes da Silva](https://www.linkedin.com/in/ricardo-gomes-dev)
 
 ---
 
