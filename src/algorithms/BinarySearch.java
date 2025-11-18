@@ -23,4 +23,9 @@ public class BinarySearch implements SearchPattern {
         }
         return -1;
     }
+
+    @Override
+    public String toString() {
+        return "Binary Search";
+    }
 }

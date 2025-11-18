@@ -26,4 +26,9 @@ public class JumpSearch implements SearchPattern {
         return -1;
     }
 
+    @Override
+    public String toString() {
+        return "Jump Search";
+    }
+
 }

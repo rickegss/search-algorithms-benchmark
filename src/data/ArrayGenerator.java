@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class ArrayGenerator {
 
-    public static int[] GenerateRandomArray(int size){
+    public static int[] generateRandomArray(int size){
         Random random = new Random();
         int[] array = new int[size];
         for (int i = 0; i < size; i++){
@@ -13,7 +13,7 @@ public class ArrayGenerator {
         return array;
     }
 
-    public static int ExistingTarget(int[] array) {
+    public static int existingTarget(int[] array) {
         Random random = new Random();
         int array_size = array.length;
         int random_index = random.nextInt(array_size);
@@ -22,7 +22,7 @@ public class ArrayGenerator {
         return target;
     }
 
-    public static int NonExistingTarget(int[] array) {
+    public static int nonExistingTarget(int[] array) {
         Random random = new Random();
         while (true) {
             int non_target = random.nextInt(2000);

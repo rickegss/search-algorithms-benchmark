@@ -12,11 +12,11 @@ public class Timer {
         End_time = System.nanoTime();
     }
 
-    public long ElapsedNano(){
+    public long elapsedNano(){
         return End_time - Start_time;
     }
 
-    public double ElapsedMillis(){
+    public double elapsedMillis(){
         return (End_time - Start_time) / 1000000.0;
     }
 }

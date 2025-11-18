@@ -11,4 +11,10 @@ public class LinearSearch implements SearchPattern {
         }
         return -1;
     }
+
+    @Override
+    public String toString() {
+        return "Linear Search";
+    }
+
 }

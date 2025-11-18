@@ -3,8 +3,8 @@ package algorithms;
 public class InterpolationSearch implements SearchPattern {
     @Override
     public int search(int[] array, int target) {
-        low = 0;
-        high = array.length - 1;
+        int low = 0;
+        int high = array.length - 1;
 
         while (low <= high && target >= array[low] && target <= array[high]) {
             if (array[low] == array[high]) {
@@ -26,5 +26,9 @@ public class InterpolationSearch implements SearchPattern {
         }
         return -1;
         }
+
+    @Override
+    public String toString() {
+        return "Interpolation Search";
     }
-}
+    }
